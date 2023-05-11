@@ -1,0 +1,16 @@
+{
+  "name": "cohere-nodejs-example",
+  "version": "1.0.0",
+  "description": "Node.js client for the official Cohere API.",
+  "author": "Levente Simon <simon.levente@gmail.com>",
+  "repository": "simonlevente/cohere-nodejs-example",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "cohere-ai": "^6.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.2.1",
+    "typescript": "^5.0.3"
+  }
+}
